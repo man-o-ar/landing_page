@@ -2262,7 +2262,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/midjourney/pirate_xr_headset.png");
+		background: url("images/overlay.png"), url("../../images/midjourney/pirate_xr_headset_decal.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2271,7 +2271,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/events/rochefort.jpg");
+		background: url("images/overlay.png"), url("../../images/events/rochefort.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
