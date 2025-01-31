@@ -2252,7 +2252,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/midjourney/naval_combat.png");
+		background: url("images/overlay.png"), url("../../images/trafalgar/pirateHead.webp");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2271,7 +2271,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/events/rochefort.png");
+		background: url("images/overlay.png"), url("../../images/midjourney/pirate_xr_headset_decal.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2280,8 +2280,12 @@ input, select, textarea {
 /* Contact */
 
 	#contact {
-		overflow: hidden;
-		padding-bottom: 0;
+		/*overflow: hidden;
+		padding-bottom: 0;*/
+		background: url("images/overlay.png"), url("../../images/events/rochefort.png");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
 	}
 
 		#contact .box {
